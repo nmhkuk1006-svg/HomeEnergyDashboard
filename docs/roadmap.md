@@ -1,27 +1,21 @@
-v0.2
+# Roadmap
 
-✔ Monthly DB
+## v0.2
+- 基本シート
 
-------------
+## v0.3
+- Dashboard
+- KPI
 
-v0.3
+## v0.4
+- Tesla
+- EV分析
 
-✔ Dashboard
+## v0.5
+- 蓄電池分析
 
-------------
+## v0.6
+- AI分析
 
-v0.4
-
-Tesla
-
-------------
-
-v0.5
-
-Battery
-
-------------
-
-v0.6
-
-AI
+## v1.0
+- Release
