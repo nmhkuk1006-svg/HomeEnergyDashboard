@@ -1,27 +1,46 @@
-# Home Energy Dashboard
+# 🏠 Home Energy Dashboard (HED)
 
-🏠 Personal Home Energy Management System
+家庭用エネルギー管理システム
 
-## Features
+## 目的
 
-☀ Solar
+太陽光・蓄電池・EV・電気料金を一元管理し、
+電気代の最適化を支援する。
 
-🔋 Battery
+---
 
-🚗 Tesla
+## システム構成
 
-📈 Dashboard
+- Google Spreadsheet
+- Google Apps Script
+- GitHub
+- ChatGPT
+- （将来）Tesla API
+- （将来）天気API
 
-🤖 AI Analysis
+---
 
-## Roadmap
+## ディレクトリ
 
-v0.2
+```
+apps-script/
+assets/
+docs/
+spreadsheet/
+```
 
-v0.3
+---
 
-v0.4
+## 開発状況
 
-...
+|Version|Status|
+|-------|------|
+|v0.2|✅|
+|v0.3|🚧|
+|v0.4|⬜|
 
-## License
+---
+
+## ライセンス
+
+MIT
