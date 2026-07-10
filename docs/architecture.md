@@ -1,26 +1,21 @@
 Google Sheets
 
-      │
+↓
 
-01_設定
-      │
-      ▼
+Monthly Data
 
-02_月次データ
-      │
-      ▼
+↓
 
-03_分析
-      │
-      ├─────────┐
-      ▼         ▼
+Analysis
 
-Dashboard   AI分析
+↓
 
-      │
+Dashboard
+
+↓
+
+AI
+
+↓
 
 Apps Script
-
-      │
-
-PDF / レポート
